@@ -1,0 +1,28 @@
+﻿type: SERVER
+latestVersion: 1.21.11
+
+versions:
+  1.21.11:
+    link: https://fill-data.papermc.io/v1/objects/da497e12b43e5b61c5df150e4bfd0de0f53043e57d2ac98dd59289ee9da4ad68/paper-1.21.11-127.jar
+    javaVersion: 21
+    javaFlags:
+    - "-XX:+UseZGC"
+    - "-XX:+ZGenerational"
+    - "-XX:+AlwaysPreTouch"
+    - "-XX:+DisableExplicitGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:ZAllocationSpikeTolerance=5"
+    - "-XX:ZCollectionInterval=60"
+    - "-XX:ZUncommitDelay=300"
+  1.21.10:
+    link: https://fill-data.papermc.io/v1/objects/158703f75a26f842ea656b3dc6d75bf3d1ec176b97a2c36384d0b80b3871af53/paper-1.21.10-130.jar
+    javaVersion: 21
+    javaFlags:
+    - "-XX:+UseZGC"
+    - "-XX:+ZGenerational"
+    - "-XX:+AlwaysPreTouch"
+    - "-XX:+DisableExplicitGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:ZAllocationSpikeTolerance=5"
+    - "-XX:ZCollectionInterval=60"
+    - "-XX:ZUncommitDelay=300"

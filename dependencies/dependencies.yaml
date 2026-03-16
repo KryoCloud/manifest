@@ -1,0 +1,9 @@
+﻿dependencies:
+  - group: org.jetbrains.kotlin
+    artifact: kotlin-stdlib
+    version: 1.5.30
+    repository: maven-central
+  - group: eu.kryocloud
+    artifact: kryocloud-node
+    version: 0.1.0
+    repository: kryocloud-public
