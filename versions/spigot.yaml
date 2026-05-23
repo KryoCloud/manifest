@@ -3,7 +3,7 @@ latestVersion: 26.1.2
 
 versions:
   26.1.2:
-    link: https://fill-data.papermc.io/v1/objects/cfb9281c2657e21ecc8acdaa9efbd6b5b3e873fb5bac4c3b8ba4bba67aa13ee2/paper-26.1.2-65.jar
+    link: https://files.mcjars.app/spigot/26.1.2/4626/server.jar
     javaVersion: 25
     javaFlags:
     - "-XX:+UseZGC"
@@ -15,7 +15,7 @@ versions:
     - "-XX:ZCollectionInterval=60"
     - "-XX:ZUncommitDelay=300"
   1.21.11:
-    link: https://fill-data.papermc.io/v1/objects/da497e12b43e5b61c5df150e4bfd0de0f53043e57d2ac98dd59289ee9da4ad68/paper-1.21.11-127.jar
+    link: https://files.mcjars.app/spigot/1.21.11/4598/server.jar
     javaVersion: 21
     javaFlags:
     - "-XX:+UseZGC"
@@ -27,7 +27,7 @@ versions:
     - "-XX:ZCollectionInterval=60"
     - "-XX:ZUncommitDelay=300"
   1.21.10:
-    link: https://fill-data.papermc.io/v1/objects/158703f75a26f842ea656b3dc6d75bf3d1ec176b97a2c36384d0b80b3871af53/paper-1.21.10-130.jar
+    link: https://files.mcjars.app/spigot/1.21.10/4564/server.jar
     javaVersion: 21
     javaFlags:
     - "-XX:+UseZGC"
@@ -39,7 +39,7 @@ versions:
     - "-XX:ZCollectionInterval=60"
     - "-XX:ZUncommitDelay=300"
   1.21.8:
-    link: https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar
+    link: https://files.mcjars.app/spigot/1.21.8/4532/server.jar
     javaVersion: 21
     javaFlags:
     - "-XX:+UseZGC"

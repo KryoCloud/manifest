@@ -1,0 +1,28 @@
+﻿type: SERVER
+latestVersion: 1.21.11
+
+versions:
+  1.21.11:
+    link: https://api.leafmc.one/v2/projects/leaf/versions/1.21.11/builds/147/downloads/leaf-1.21.11-147.jar
+    javaVersion: 21
+    javaFlags:
+    - "-XX:+UseZGC"
+    - "-XX:+ZGenerational"
+    - "-XX:+AlwaysPreTouch"
+    - "-XX:+DisableExplicitGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:ZAllocationSpikeTolerance=5"
+    - "-XX:ZCollectionInterval=60"
+    - "-XX:ZUncommitDelay=300"
+  1.21.8:
+    link: https://api.leafmc.one/v2/projects/leaf/versions/1.21.8/builds/175/downloads/leaf-1.21.8-175.jar
+    javaVersion: 21
+    javaFlags:
+    - "-XX:+UseZGC"
+    - "-XX:+ZGenerational"
+    - "-XX:+AlwaysPreTouch"
+    - "-XX:+DisableExplicitGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:ZAllocationSpikeTolerance=5"
+    - "-XX:ZCollectionInterval=60"
+    - "-XX:ZUncommitDelay=300"

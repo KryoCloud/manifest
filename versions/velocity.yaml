@@ -3,7 +3,7 @@ latestVersion: 3.5.0-SNAPSHOT
 
 versions:
   3.5.0-SNAPSHOT:
-    link: https://fill-data.papermc.io/v1/objects/e4ac6d5d4b30b7a209ee18d73961777c07d871195a48f68c5db5facae393a818/velocity-3.5.0-SNAPSHOT-580.jar
+    link: https://fill-data.papermc.io/v1/objects/ff08e7cae29dea20fcdb4f14092d825add6d265d5b2599ea5d5dbf54cb43c2d6/velocity-3.5.0-SNAPSHOT-597.jar
     javaVersion: 21
   3.4.0:
     link: https://fill-data.papermc.io/v1/objects/fb599cbda6a6d01decce5e281f71f51cae7cacffcfafca32a09601f407b0583e/velocity-3.4.0-566.jar

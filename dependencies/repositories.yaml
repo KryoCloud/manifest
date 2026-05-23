@@ -1,7 +1,0 @@
-default: maven-central
-
-repositories:
-  - id: maven-central
-    url: https://repo.maven.apache.org/maven2
-  - id: kryocloud-public
-    url: https://repo.kryocloud.eu/repository/public
