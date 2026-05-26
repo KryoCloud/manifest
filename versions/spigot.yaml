@@ -1,52 +1,51 @@
-﻿type: SERVER
+type: SERVER
 latestVersion: 26.1.2
-
 versions:
   26.1.2:
     link: https://files.mcjars.app/spigot/26.1.2/4626/server.jar
     javaVersion: 25
     javaFlags:
-    - "-XX:+UseZGC"
-    - "-XX:+ZGenerational"
-    - "-XX:+AlwaysPreTouch"
-    - "-XX:+DisableExplicitGC"
-    - "-XX:+UnlockExperimentalVMOptions"
-    - "-XX:ZAllocationSpikeTolerance=5"
-    - "-XX:ZCollectionInterval=60"
-    - "-XX:ZUncommitDelay=300"
+    - -XX:+UseZGC
+    - -XX:+ZGenerational
+    - -XX:+AlwaysPreTouch
+    - -XX:+DisableExplicitGC
+    - -XX:+UnlockExperimentalVMOptions
+    - -XX:ZAllocationSpikeTolerance=5
+    - -XX:ZCollectionInterval=60
+    - -XX:ZUncommitDelay=300
   1.21.11:
     link: https://files.mcjars.app/spigot/1.21.11/4598/server.jar
     javaVersion: 21
     javaFlags:
-    - "-XX:+UseZGC"
-    - "-XX:+ZGenerational"
-    - "-XX:+AlwaysPreTouch"
-    - "-XX:+DisableExplicitGC"
-    - "-XX:+UnlockExperimentalVMOptions"
-    - "-XX:ZAllocationSpikeTolerance=5"
-    - "-XX:ZCollectionInterval=60"
-    - "-XX:ZUncommitDelay=300"
+    - -XX:+UseZGC
+    - -XX:+ZGenerational
+    - -XX:+AlwaysPreTouch
+    - -XX:+DisableExplicitGC
+    - -XX:+UnlockExperimentalVMOptions
+    - -XX:ZAllocationSpikeTolerance=5
+    - -XX:ZCollectionInterval=60
+    - -XX:ZUncommitDelay=300
   1.21.10:
     link: https://files.mcjars.app/spigot/1.21.10/4564/server.jar
     javaVersion: 21
     javaFlags:
-    - "-XX:+UseZGC"
-    - "-XX:+ZGenerational"
-    - "-XX:+AlwaysPreTouch"
-    - "-XX:+DisableExplicitGC"
-    - "-XX:+UnlockExperimentalVMOptions"
-    - "-XX:ZAllocationSpikeTolerance=5"
-    - "-XX:ZCollectionInterval=60"
-    - "-XX:ZUncommitDelay=300"
+    - -XX:+UseZGC
+    - -XX:+ZGenerational
+    - -XX:+AlwaysPreTouch
+    - -XX:+DisableExplicitGC
+    - -XX:+UnlockExperimentalVMOptions
+    - -XX:ZAllocationSpikeTolerance=5
+    - -XX:ZCollectionInterval=60
+    - -XX:ZUncommitDelay=300
   1.21.8:
     link: https://files.mcjars.app/spigot/1.21.8/4532/server.jar
     javaVersion: 21
     javaFlags:
-    - "-XX:+UseZGC"
-    - "-XX:+ZGenerational"
-    - "-XX:+AlwaysPreTouch"
-    - "-XX:+DisableExplicitGC"
-    - "-XX:+UnlockExperimentalVMOptions"
-    - "-XX:ZAllocationSpikeTolerance=5"
-    - "-XX:ZCollectionInterval=60"
-    - "-XX:ZUncommitDelay=300"
+    - -XX:+UseZGC
+    - -XX:+ZGenerational
+    - -XX:+AlwaysPreTouch
+    - -XX:+DisableExplicitGC
+    - -XX:+UnlockExperimentalVMOptions
+    - -XX:ZAllocationSpikeTolerance=5
+    - -XX:ZCollectionInterval=60
+    - -XX:ZUncommitDelay=300

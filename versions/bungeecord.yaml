@@ -1,7 +1,6 @@
-﻿type: PROXY
+type: PROXY
 latestVersion: latest
-
 versions:
   latest:
-    link: https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar
+    link: https://ci.md-5.net/job/BungeeCord/2069/artifact/bootstrap/target/BungeeCord.jar
     javaVersion: 17
