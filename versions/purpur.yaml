@@ -2,7 +2,7 @@ type: SERVER
 latestVersion: 26.1.2
 versions:
   26.1.2:
-    link: https://api.purpurmc.org/v2/purpur/26.1.2/2580/download
+    link: https://api.purpurmc.org/v2/purpur/26.1.2/2587/download
     javaVersion: 25
     javaFlags:
     - -XX:+UseZGC
