@@ -19,7 +19,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Install dependencies
-      run: shards install
     - name: Run
       run: crystal run updater/main.cr
