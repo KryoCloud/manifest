@@ -1,0 +1,22 @@
+﻿versions:
+  - bungeecord
+  - folia
+  - leaf
+  - paper
+  - purpur
+  - spigot
+  - velocity
+
+channels:
+  - stable
+  - beta
+  - experimental
+
+codenames:
+  - name: Frost
+    versions:
+      - 1.2
+      - 1.1
+  - name: Cryostasis
+    versions:
+      - 1.0
