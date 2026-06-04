@@ -39,7 +39,7 @@ rescue ex
 end
 
 fetcher = ApiFetcher.new
-available = YAML.parse(File.read("versions.yaml").lstrip('\u{FEFF}'))["available"].as_a.map(&.as_s)
+available = YAML.parse(File.read("manifest.yaml").lstrip('\u{FEFF}'))["versions"].as_a.map(&.as_s)
 
 puts "Updating #{available.size} entries..."
 available.each { |name| update_software(name, fetcher) }
