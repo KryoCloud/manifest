@@ -2,7 +2,7 @@ type: SERVER
 latestVersion: 26.1.2
 versions:
   26.1.2:
-    link: https://files.mcjars.app/spigot/26.1.2/4629/server.jar
+    link: https://files.mcjars.app/spigot/26.1.2/4630/server.jar
     javaVersion: 25
     javaFlags:
     - -XX:+UseZGC
