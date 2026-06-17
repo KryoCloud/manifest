@@ -2,7 +2,7 @@ type: PROXY
 latestVersion: 3.5.0-SNAPSHOT
 versions:
   3.5.0-SNAPSHOT:
-    link: https://fill-data.papermc.io/v1/objects/ad0c287268b0c2426243abb75414cd5ed84766762db0aa81171e446a07ee8a00/velocity-3.5.0-SNAPSHOT-603.jar
+    link: https://fill-data.papermc.io/v1/objects/0ec616020166465dacca3b790d3db2b246f8f7c13b3aaacaae60c825744a66e0/velocity-3.5.0-SNAPSHOT-605.jar
     javaVersion: 21
   3.4.0:
     link: https://fill-data.papermc.io/v1/objects/fb599cbda6a6d01decce5e281f71f51cae7cacffcfafca32a09601f407b0583e/velocity-3.4.0-566.jar
