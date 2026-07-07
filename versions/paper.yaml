@@ -2,7 +2,7 @@ type: SERVER
 latestVersion: 26.1.2
 versions:
   26.1.2:
-    link: https://fill-data.papermc.io/v1/objects/0555a0b0468a5198d8fb1a16e1f9e95c81a917a2dc8f2e09867b4044742f6401/paper-26.1.2-72.jar
+    link: https://fill-data.papermc.io/v1/objects/1d70b1dab9cf4a6de615209a536f3a45a2186240253c428213ce2188ab95e5f7/paper-26.1.2-74.jar
     javaVersion: 25
     javaFlags:
     - -XX:+UseZGC
