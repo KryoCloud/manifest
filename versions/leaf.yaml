@@ -2,7 +2,7 @@ type: SERVER
 latestVersion: 1.21.11
 versions:
   1.21.11:
-    link: https://api.leafmc.one/v2/projects/leaf/versions/1.21.11/builds/171/downloads/leaf-1.21.11-171.jar
+    link: https://api.leafmc.one/v2/projects/leaf/versions/1.21.11/builds/172/downloads/leaf-1.21.11-172.jar
     javaVersion: 21
     javaFlags:
     - -XX:+UseZGC
