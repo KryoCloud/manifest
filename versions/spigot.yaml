@@ -26,7 +26,7 @@ versions:
     - -XX:ZCollectionInterval=60
     - -XX:ZUncommitDelay=300
   1.21.10:
-    link: https://files.mcjars.app/spigot/1.21.10/4564/server.jar
+    link: https://files.mcjars.app/spigot/1.21.10/4571/server.jar
     javaVersion: 21
     javaFlags:
     - -XX:+UseZGC
@@ -38,7 +38,7 @@ versions:
     - -XX:ZCollectionInterval=60
     - -XX:ZUncommitDelay=300
   1.21.8:
-    link: https://files.mcjars.app/spigot/1.21.8/4532/server.jar
+    link: https://files.mcjars.app/spigot/1.21.8/4534/server.jar
     javaVersion: 21
     javaFlags:
     - -XX:+UseZGC
